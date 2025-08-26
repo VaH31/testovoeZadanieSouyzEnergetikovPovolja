@@ -1,0 +1,7 @@
+streamlit>=1.32
+transformers>=4.39
+torch
+langdetect>=1.0.9
+requests>=2.31
+dotenv~=0.9.9
+python-dotenv~=1.1.1
